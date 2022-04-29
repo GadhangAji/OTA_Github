@@ -6,11 +6,11 @@
 #if defined(ESP8266)
 #include <ESP8266WiFi.h>
 #include <ESP8266httpUpdate.h>
-const int led = 2;
+// const int led = 2;
 #else
 #include <WiFi.h>
 #include <HTTPUpdate.h>
-const int led = 33;
+// const int led = 33;
 #endif
 
 class OTA {
