@@ -10,4 +10,4 @@ For ESP32, use Minimal SPIFFS(1.9MB APP with OTA/190KB SPIFFS) partition.
 
 
 
-# - EXON Hardware Development -
+# - EXON Hardware Developer -
